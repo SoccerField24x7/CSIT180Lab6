@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusinessLogic\GradeHelper.cs" />
+    <Compile Include="BusinessLogic\Grades.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
